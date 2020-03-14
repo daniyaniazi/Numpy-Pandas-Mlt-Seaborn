@@ -1,26 +1,26 @@
 # PY_LIB-FOR-DATA-ANALYSIS
 Numpy,Pandas,Matplotlib,Seaborn<br/>
 
-DATA SETS
-sample_data.csv
-Fortune_10.csv
-PANDAS DOCUMENTATION
-pandas.pdf
+DATA SETS<br/>
+sample_data.csv<br/>
+Fortune_10.csv<br/>
+PANDAS DOCUMENTATION<br/>
+pandas.pdf<br/>
 
-FILES ORDER:
-__NUMPY__
-INTRODUCTION TO NUMPY+ARRAYS.ipynb
-MATHAMETICAL OPERATION USING NUMPY.ipynb
-ARRAY SLICING.ipynb
-Handling DataTypes for ndarrays.ipynb
-RANDOM SAMPLING.ipynb
-TRIGONOMETRY WITH NUMPY.ipynb
-NUMPY STRING OPERATION .ipynb
-__PANDAS__
-PANDAS INTRO.ipynb
-PANDAS DATA FRAME.ipynb
-READ CSV FILE.ipynb
-WRITE ON CSV FILE PART1.ipynb
-WRITE CSV FILE PART2 AND MISSING VALUES.ipynb
-HANDLING MISSING VALUE DROPNA.ipynb
+FILES ORDER:<br/>
+__NUMPY__<br/>
+INTRODUCTION TO NUMPY+ARRAYS.ipynb<br/>
+MATHAMETICAL OPERATION USING NUMPY.ipynb<br/>
+ARRAY SLICING.ipynb<br/>
+Handling DataTypes for ndarrays.ipynb<br/>
+RANDOM SAMPLING.ipynb<br/>
+TRIGONOMETRY WITH NUMPY.ipynb<br/>
+NUMPY STRING OPERATION .ipynb<br/>
+__PANDAS__<br/>
+PANDAS INTRO.ipynb<br/>
+PANDAS DATA FRAME.ipynb<br/>
+READ CSV FILE.ipynb<br/>
+WRITE ON CSV FILE PART1.ipynb<br/>
+WRITE CSV FILE PART2 AND MISSING VALUES.ipynb<br/>
+HANDLING MISSING VALUE DROPNA.ipynb<br/>
 
