@@ -1,0 +1,10 @@
+Date,ID,job_vacancy,Name,Industry,Inception,Revenue,Expenses,Profit,Growth,percentage
+1/12/2013,1,yes,Lamtone,IT Services,2009,"$11,757,018 ","6,482,465 Dollars",5274553,1%,1
+2/12/2013,2,no,Stripfind,Financial Services,2010,"$12,329,371 ","916,455 Dollars",11412916,2%,8
+3/12/2013,3,yes,Stripfind,,2012,"$10,597,009 ","7,591,189 Dollars",3005820,3%,45
+4/12/2013,4,yes,,IT Services,2013,"$14,026,934 ","7,429,377 Dollars",6597557,4%,
+5/12/2013,5,yes,,Health,2009,"$10,573,990 ","7,435,363 Dollars",3138627,5%,44
+6/12/2013,6,no,,Health,2006,"$13,898,119 ","5,470,303 Dollars",8427816,6%,
+7/12/2013,7,yes,,Health,2010,"$9,254,614 ","6,249,498 Dollars",3005116,7%,78
+8/12/2013,8,no,Kayelectronics,Health,2009,"$9,451,943 ","3,878,113 Dollars",5573830,8%,
+9/12/2013,9,no,Ganzlax,,2011,"$14,001,180 ","3,878,113 Dollars",11901180,9%,55
